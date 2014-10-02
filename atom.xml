@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[玥]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-10-02T16:10:57.407Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[玥]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[古剑奇谭十句部分为台词]]></title>
+    <link href="http://yoursite.com/1/"/>
+    <id>http://yoursite.com/1/</id>
+    <published>2014-09-28T23:30:29.000Z</published>
+    <updated>2014-09-29T05:19:28.000Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>何以飘零去,何以少团栾,何以别离久,何以不得安？<br>——欧阳少恭《古剑奇谭》</li>
+<li>你此一生若只一瞬，纵然今世相守一瞬亦是一生……<br>——风晴雪《古剑奇谭》</li>
+<li>天地之间，顺应其心而活，便是最好。夏荷映日，枯荷听雨，万物生发，自有因缘。执念若生而不灭，勉强放下只是更易入了心魔。<br>《古剑奇谭》<a id="more"></a></li>
+<li>何以飘零去，何以少团栾，何以别离久，何以不得安，指云问天道，琴鸣血斑斓！<br>《古剑奇谭》</li>
+<li>曾经有人告诉过我，对生死之事毫无执念的人，只是还没有经历过真正绝望的别离，仿佛诅咒一般…………<br>《古剑奇谭》</li>
+<li>有时候，不能不去相信所谓命运……但在此之前，我想要走过很多地方，看不同的城镇村庄，或许还能帮一帮那些遇上困难的人。我希望，有一个人可以和我一起走、一起看。晴雪，你愿意当那个人，和我一起吗？<br>——百里屠苏《古剑奇谭》</li>
+<li>凡人生老病死、转瞬即逝，活着时已经经历太多苦难，种种追寻，不过是渴鹿逐焰、人心迷妄，皆是镜中花、水中月。<br>——欧阳少恭《古剑奇谭》</li>
+<li>我心爱的人，早已经不在了，这世间纵然姹紫嫣红开遍，又与我有何干系？<br>——欧阳少恭《古剑奇谭》</li>
+<li>听说——<br>在遥远的极北之地<br>隐约有关于亡者重生的传说<br>我将要启程去到那里<br>无论如何<br>在这一世走到尽头之前<br>我都会继续寻找下去<br>总有一天——<br>我会和苏苏回到桃花谷<br>我们……<br>再也不分开……——风晴雪《古剑奇谭》<br>10.死生契阔<br>与子成说<br>执子之手<br>与子偕老 ——《古剑奇谭结尾语》</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>何以飘零去,何以少团栾,何以别离久,何以不得安？<br>——欧阳少恭《古剑奇谭》</li>
+<li>你此一生若只一瞬，纵然今世相守一瞬亦是一生……<br>——风晴雪《古剑奇谭》</li>
+<li>天地之间，顺应其心而活，便是最好。夏荷映日，枯荷听雨，万物生发，自有因缘。执念若生而不灭，勉强放下只是更易入了心魔。<br>《古剑奇谭》]]>
+    
+    </summary>
+    
+      <category term="博客，文章" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+    
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+    
+  </entry>
+  
+</feed>
